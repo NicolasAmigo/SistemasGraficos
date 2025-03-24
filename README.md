@@ -13,4 +13,8 @@
 # Castillo
 <a href="https://nicolasam.itch.io/webgl-test" target="_blank">Link</a>
 
+<<<<<<< HEAD
 Contraseña : test
+=======
+Contraseña : test
+>>>>>>> 5d833a8658a26dafc931a090008211d060cdafe1
